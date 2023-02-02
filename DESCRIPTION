@@ -1,0 +1,13 @@
+Package: BayesNPS
+Type: Package
+Title: Bayesian Inference for the Net Promoter Score
+Version: 0.1.0
+Author: c(person("Eliardo", "Costa", email = "eliardo.costa@ufrn.br", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-4528-0379"), person("Rachel Tarini", "Ponte", role = c("ctb")))
+Maintainer: Eliardo Costa <eliardo.costa@ufrn.br>
+Description: Bayesian inference for the Net Promoter Score (NPS).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    TeachingDemos
+RoxygenNote: 7.2.2
