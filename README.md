@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of BayesNPS is to provide Bayesian inference for the Net Promoter Score.
+The goal of BayesNPS is to compute point and interval estimates for the Net Promoter Score under a Bayesian approach. Also, the package compute the minimum sample size to construct the HPD interval for the NPS via the average length criterion.
 
 ## Installation
 
